@@ -2,7 +2,7 @@
 import os
 
 # --- 监控配置 ---
-SEARCH_TERMS = ["充电宝", "固态硬盘"] # 同时监控 SSD 和显卡
+SEARCH_TERMS = ["酷态科充电宝", "固态硬盘1T"] # 同时监控 SSD 和显卡
 CHECK_INTERVAL_SECONDS = 60 * 10 # 检查间隔
 
 # --- 数据库配置 ---
